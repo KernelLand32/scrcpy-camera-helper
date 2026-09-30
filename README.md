@@ -10,14 +10,19 @@ no accounts, no sign-ups, no cloud services.
 
 ## Demo
 
-[Watch the guided session](docs/demo.mp4) (~47 s, silent) — start-up, guided
-setup, going live with the phone's camera and microphone, recording, and a
-clean stop.
+https://github.com/user-attachments/assets/fa14ac79-3672-4879-870c-e509426ecdca
 
-<!-- Maintainer note: GitHub renders the in-repo MP4 with a player on its
-     file (blob) page. For fully inline playback inside the README itself,
-     attach the MP4 once in a GitHub markdown editor and replace the link
-     above with the resulting user-attachments URL. -->
+(~47 s, silent) — start-up, guided setup, going live with the phone's camera
+and microphone, recording, and a clean stop. [Original file](docs/demo.mp4),
+if you prefer the repo copy over the inline player.
+
+<!-- Maintainer note: the URL above is a GitHub user-attachments mirror of
+     docs/demo.mp4. That hosting is the only way GitHub renders an inline
+     player inside the README itself (raw <video> tags and in-repo file
+     links do not embed; the in-repo link above still plays on its blob
+     page). Re-uploaded via the uploads.github.com/user-attachments
+     endpoint - re-upload and swap the URL here if the demo is ever
+     re-recorded. -->
 
 ## What you need
 
