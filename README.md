@@ -5,8 +5,7 @@ your Windows PC. Apps like OBS, Discord, Zoom, Teams, browsers, and audio
 editors can then use the phone's picture and sound as if they came from a
 regular webcam and microphone.
 
-The heavy lifting is done by [scrcpy](https://github.com/Genymobile/scrcpy),
-which is already included in this folder. Everything runs locally on your PC —
+The heavy lifting is done by [scrcpy](https://github.com/Genymobile/scrcpy). Everything runs locally on your PC —
 no accounts, no sign-ups, no cloud services.
 
 ## Demo
