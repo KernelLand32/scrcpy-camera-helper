@@ -12,18 +12,6 @@ no accounts, no sign-ups, no cloud services.
 
 https://github.com/user-attachments/assets/fa14ac79-3672-4879-870c-e509426ecdca
 
-(~47 s, silent) — start-up, guided setup, going live with the phone's camera
-and microphone, recording, and a clean stop. [Original file](docs/demo.mp4),
-if you prefer the repo copy over the inline player.
-
-<!-- Maintainer note: the URL above is a GitHub user-attachments mirror of
-     docs/demo.mp4. That hosting is the only way GitHub renders an inline
-     player inside the README itself (raw <video> tags and in-repo file
-     links do not embed; the in-repo link above still plays on its blob
-     page). Re-uploaded via the uploads.github.com/user-attachments
-     endpoint - re-upload and swap the URL here if the demo is ever
-     re-recorded. -->
-
 ## What you need
 
 - **Windows 10 or 11.**
